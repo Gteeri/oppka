@@ -1,0 +1,8 @@
+{
+  "name": "GTayr",
+  "description": "Universal AI assistant by GTayr. Chat, Voice, Images, and Analysis.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
